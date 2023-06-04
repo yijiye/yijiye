@@ -1,13 +1,5 @@
 
 
-<h3 align="center">
-👋 안녕하세요 반갑습니다!
-</h3>
-<h6 align="center">
-iOS 앱 개발 공부하고 있습니다 🌱
-</h6>
-
-----
 
 <div align="center"><h3>📚 Studying</h3>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
